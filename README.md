@@ -18,6 +18,7 @@ Creating a Security Group for the MySQL Instance which allows only bastion host 
 Launch a Webserver Instance hosting WordPress in it.
 Launch a MySQL instance.
 Remote access to html page and perform some configuration.
+
 ![image](https://github.com/RAJanNAT619/iac-terraform/assets/41659947/afd1e67b-011a-40ed-89da-0f6071ebdf9e)
 
 
